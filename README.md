@@ -1,1 +1,2 @@
 # sample
+Sample Code Snippet
